@@ -6,8 +6,18 @@
 }
 
 
-.test:hover {
+.barsTrans:hover {
   transform: rotate(90deg);
   transition: 1s;
+}
 
+#navbarMagic {
+  margin-top: 40px;
+  margin-left: 15px;
+}
+
+.test {
+  //width: 0px !important;
+  padding: 0px !important;
+  background-color: none;
 }
