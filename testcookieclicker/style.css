@@ -1,23 +1,6 @@
-.drpBtn {
-  width: 150px;
-  display: block;
-  height: 40px;
-  background-color: red;
-}
 
 
-.barsTrans:hover {
-  transform: rotate(90deg);
-  transition: 1s;
-}
 
-#navbarMagic {
-  margin-top: 40px;
-  margin-left: 15px;
-}
-
-.test {
-  //width: 0px !important;
-  padding: 0px !important;
-  background-color: none;
+#test {
+  font-size: 50px !important;
 }

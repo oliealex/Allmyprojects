@@ -1,15 +1,5 @@
 
-
-//document.getElementById('navbarMagic').onclick = function(){myFunction(i)};
-
-function sleep(delay) {
-    var start = new Date().getTime();
-    while (new Date().getTime() < start + delay);
-}
-
-
-function myFunction(){
-      document.getElementsByClassName('test')[0].style.background = "black";
-      document.getElementsByClassName('test')[0].style.transform = "scale(5%, 50px);";
-      document.getElementsByClassName('test')[0].style.transition = "5s";
-}
+  // Initialize collapse button
+  $(".button-collapse").sideNav();
+  // Initialize collapsible (uncomment the line below if you use the dropdown variation)
+  //$('.collapsible').collapsible();
