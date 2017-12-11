@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\alexa\onedrive\documents\github\allmyprojects\cryptogramattack\cryptogramattack\main.c(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\alexa\onedrive\documents\github\allmyprojects\cryptogramattack\cryptogramattack\main.c(12): warning C4101: 'group2': unreferenced local variable
+c:\users\alexa\onedrive\documents\github\allmyprojects\cryptogramattack\cryptogramattack\main.c(12): warning C4101: 'group3': unreferenced local variable
+c:\users\alexa\onedrive\documents\github\allmyprojects\cryptogramattack\cryptogramattack\main.c(12): warning C4101: 'group6': unreferenced local variable
+c:\users\alexa\onedrive\documents\github\allmyprojects\cryptogramattack\cryptogramattack\main.c(12): warning C4101: 'group5': unreferenced local variable
+c:\users\alexa\onedrive\documents\github\allmyprojects\cryptogramattack\cryptogramattack\main.c(12): warning C4101: 'group4': unreferenced local variable
+  cryptogramAttack.vcxproj -> C:\Users\Alexa\OneDrive\Documents\GitHub\Allmyprojects\cryptogramAttack\Debug\cryptogramAttack.exe
